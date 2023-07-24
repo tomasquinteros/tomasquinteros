@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="160" src="https://media.licdn.com/dms/image/D4D03AQHdDbdnOBpOdw/profile-displayphoto-shrink_800_800/0/1688860689798?e=1695859200&v=beta&t=ME9Jc4IR4ztzSnJUPzc0vQk5MXMkfSPnCZrAJiypILI"  />
-
 ###
 
 <div align="left">
