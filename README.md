@@ -15,31 +15,31 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tomasquinteros&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&date_format=M j[, Y]" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasquinteros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tomasquinteros&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&date_format=M j[, Y]" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasquinteros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/231523597036945409" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
