@@ -18,7 +18,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ tomasquinteros }}
+          github_user_name: tomasquinteros
           outputs: dist/snake.svg
 
 
@@ -28,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: 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 
