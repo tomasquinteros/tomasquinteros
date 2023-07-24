@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📄 Know about my experiences https://www.linkedin.com/in/tomasquinteros-dev/)</h3>
+<h3 align="left">📄 Know about my experiences https://www.linkedin.com/in/tomasquinteros-dev/</h3>
 
 ###
 
