@@ -2,21 +2,21 @@
 
 ###
 
-<p align="left">🌱 I'm currently learnign Node.js, Next.js, PostgreSQL</p>
+<h3 align="left">🌱 I'm currently learnign Node.js, Next.js, PostgreSQL</h3>
 
 ###
 
-<p align="left">📫 How to reach me **tomassaidquinteros@gmail.com**</p>
+<h3 align="left">📫 How to reach me **tomassaidquinteros@gmail.com**</h3>
 
 ###
 
-<p align="left">📄 Know about my experiences https://www.linkedin.com/in/tomasquinteros-dev/)</p>
+<h3 align="left">📄 Know about my experiences https://www.linkedin.com/in/tomasquinteros-dev/)</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tomasquinteros&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&date_format=M j[, Y]" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasquinteros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=tomasquinteros&locale=en&mode=weekly&theme=ayu-mirage&hide_border=false&border_radius=5&date_format=M j[, Y]" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasquinteros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
