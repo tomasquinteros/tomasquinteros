@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">📫 How to reach me **tomassaidquinteros@gmail.com**</h3>
+<h3 align="left">📫 How to reach me <b>tomassaidquinteros@gmail.com</b>**</h3>
 
 ###
 
