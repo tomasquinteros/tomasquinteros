@@ -1,16 +1,16 @@
-<h1 align="left">Hi 👋! My name is Tomas and I'm a Frontend Developer, from Argentina</h1>
+<h1 align="left">Hola Mundo! Mi nombre es Tomás y soy Desarrollador Fullstack, desde Argentina</h1>
 
 ###
 
-<h3 align="left">🌱 I'm currently learnign Node.js, Next.js, PostgreSQL</h3>
+<h3 align="left">🌱 Actualmente me encuentro trabajando para Proaco como Fullstack Developer!</h3>
 
 ###
 
-<h3 align="left">📫 How to reach me <strong>tomassaidquinteros@gmail.com</strong></h3>
+<h3 align="left">📫 Aquí te dejo mi email si quieres contactarme! <strong>tomassaidquinteros@gmail.com</strong></h3>
 
 ###
 
-<h3 align="left">📄 Know about my experiences https://www.linkedin.com/in/tomasquinteros-dev/</h3>
+<h3 align="left">📄 Si deseas saber mis experiencias como Desarrollador, tambien te dejo mi linkedIn https://www.linkedin.com/in/tomasquinteros-dev/</h3>
 
 ###
 
@@ -22,19 +22,8 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="css3 logo"  />
 </div>
 
 ###
