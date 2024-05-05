@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">🌱 Actualmente me encuentro trabajando para Proaco como Fullstack Developer!</h3>
+<h3 align="left">🌱 Actualmente me encuentro trabajando para Proaco como Fullstack Developer utilizando como stack tecnologico: Laravel, JavaScript, SQL y TailwindCSS.
+<br/>
+  Además, estoy realizando la Tecnicatura Superior en Desarrollo de Software.
+</h3>
 
 ###
 
