@@ -24,6 +24,22 @@
 <div align="left">
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="css3 logo"  />
 </div>
 
 ###
